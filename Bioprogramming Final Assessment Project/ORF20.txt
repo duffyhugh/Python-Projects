@@ -1,0 +1,9 @@
+******************  Open reading Frame Details *************************
+1the ORF start is: 10 the ORF end is 84 the length is: 74
+The ORF amino acid sequence is: 
+MIALPVMAIAACSSTSPWVNVVRTPLRCTCRVKAFLQTRSPSFLTVKKNLQYWVMTKRHTPKTVVRYWFTKRIA
+************  end of ORF **************************************  Open reading Frame Details *************************
+3the ORF start is: 20 the ORF end is 79 the length is: 59
+The ORF amino acid sequence is: 
+MFFHISLGERRANAVKMYLQGKGVSADQISIVSYGKEKPAVLGHDEAAYSKNRRAVLVY
+************  end of ORF ********************
